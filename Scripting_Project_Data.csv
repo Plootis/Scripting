@@ -1,16 +1,16 @@
-Discipline,Content Type,Paper Author,Paper Title,Paper Type,Publish Date,H_RH_2020,Harvard Library
-History,Archival Record,Rebecca Lindsay Hastings,"Oil Capital: Industry and Society in Baku, Azerbaijan, 1870-Present",Dissertation,2020,H_EG_2014,Lyon.fr
-History,Webpage,Emily Gilkey,The Making of a Family: Constructing Companionate Marriage in Nineteenth-Century Lyon,Dissertation,2014,H_TG_2014,The Korean Herald
-History,Webpage,Tristan R. Grunow,"Empire by Design: Railways, Architecture, and Urban Planning in Tokyo, Taipei, and Seoul",Dissertation,2014,H_MM_2017,pnwumc.org
+Discipline,Content Type,Paper Author,Paper Title,Paper Type,Publish Date,Data Set Identifier, Source Location
+History,Archival Record,Rebecca Lindsay Hastings,"Oil Capital: Industry and Society in Baku, Azerbaijan, 1870-Present",Dissertation,2020,H_RH_2020,Harvard Library
+History,Webpage,Emily Gilkey,The Making of a Family: Constructing Companionate Marriage in Nineteenth-Century Lyon,Dissertation,2014,H_EG_2014,Lyon.fr
+History,Webpage,Tristan R. Grunow,"Empire by Design: Railways, Architecture, and Urban Planning in Tokyo, Taipei, and Seoul",Dissertation,2014,H_TG_2014,The Korean Herald
+History,Webpage,Michael Sean Munger,Ten Years of Winter: The Cold Decade and Environmental Consciousness in the Early 19th Century,Dissertation,2017,H_MM_2017,pnwumc.org
 History,Webpage,Michael Sean Munger,Ten Years of Winter: The Cold Decade and Environmental Consciousness in the Early 19th Century,Dissertation,2017,H_MM_2017,Slate
-History,Webpage,Michael Sean Munger,Ten Years of Winter: The Cold Decade and Environmental Consciousness in the Early 19th Century,Dissertation,2017,H_SL_2018,Oregon State University
+History,Webpage,Steven G. Leone,"Grave Concerns: Decay, Death, and Nature in the Early Republic",Dissertation,2018,H_SL_2018,Oregon State University
 History,Webpage,Steven G. Leone,"Grave Concerns: Decay, Death, and Nature in the Early Republic",Dissertation,2018,H_SL_2018,The Guardian
-History,Webpage,Steven G. Leone,"Grave Concerns: Decay, Death, and Nature in the Early Republic",Dissertation,2018,H_RH_2020,Earth Policy Institute
-History,Book,Rebecca Lindsay Hastings,"Oil Capital: Industry and Society in Baku, Azerbaijan, 1870-Present",Dissertation,2020,H_HM_2018,Japanese Consumers' Co-Operative Union
-History,Webpage,Hillary J. Maxson,"Kakeibo Monogatari: Women's Consumerism and the Postwar Japanese Kitchen, 1945 - 1964",Dissertation,2018,H_MM_2017,Oxford Dictionary of National Biography
-History,Webpage,Michael Sean Munger,Ten Years of Winter: The Cold Decade and Environmental Consciousness in the Early 19th Century,Dissertation,2017,H_SL_2018,Oxford English Dictionary
-History,Webpage,Steven G. Leone,"Grave Concerns: Decay, Death, and Nature in the Early Republic",Dissertation,2018,H_HM_2018,Central Research Services
-History,Webpage,Hillary J. Maxson,"Kakeibo Monogatari: Women's Consumerism and the Postwar Japanese Kitchen, 1945 - 1964",Dissertation,2018,H_CMS_2013,Google eBook
+History,Book,Rebecca Lindsay Hastings,"Oil Capital: Industry and Society in Baku, Azerbaijan, 1870-Present",Dissertation,2020,H_RH_2020,Earth Policy Institute
+History,Webpage,Hillary J. Maxson,"Kakeibo Monogatari: Women's Consumerism and the Postwar Japanese Kitchen, 1945 - 1964",Dissertation,2018,H_HM_2018,Japanese Consumers' Co-Operative Union
+History,Webpage,Michael Sean Munger,Ten Years of Winter: The Cold Decade and Environmental Consciousness in the Early 19th Century,Dissertation,2017,H_MM_2017,Oxford Dictionary of National Biography
+History,Webpage,Steven G. Leone,"Grave Concerns: Decay, Death, and Nature in the Early Republic",Dissertation,2018,H_SL_2018,Oxford English Dictionary
+History,Webpage,Hillary J. Maxson,"Kakeibo Monogatari: Women's Consumerism and the Postwar Japanese Kitchen, 1945 - 1964",Dissertation,2018,H_HM_2018,Central Research Services
 History,Historic Book,Clinton Matthew Sandvick,Licensing American Physicians: 1870-1907,Dissertation,2013,H_CMS_2013,Google eBook
 History,Historic Book,Clinton Matthew Sandvick,Licensing American Physicians: 1870-1907,Dissertation,2013,H_CMS_2013,Google eBook
 History,Historic Book,Clinton Matthew Sandvick,Licensing American Physicians: 1870-1907,Dissertation,2013,H_CMS_2013,Google eBook
@@ -19,123 +19,124 @@ History,Historic Book,Clinton Matthew Sandvick,Licensing American Physicians: 18
 History,Historic Book,Clinton Matthew Sandvick,Licensing American Physicians: 1870-1907,Dissertation,2013,H_CMS_2013,Google eBook
 History,Historic Book,Clinton Matthew Sandvick,Licensing American Physicians: 1870-1907,Dissertation,2013,H_CMS_2013,Google eBook
 History,Historic Book,Clinton Matthew Sandvick,Licensing American Physicians: 1870-1907,Dissertation,2013,H_CMS_2013,Google eBook
-History,Historic Book,Clinton Matthew Sandvick,Licensing American Physicians: 1870-1907,Dissertation,2013,H_NF_2020,Archive.org
-History,Interactive Book,Nichelle Stephanie Frank,Sanitizing History: Environmental Cleanup and Historic Preservation in U.S. West Mining Communities,Dissertation,2020,H_RH_2020,Princeton University Digital Library
-History,Interactive Book,Rebecca Lindsay Hastings,"Oil Capital: Industry and Society in Baku, Azerbaijan, 1870-Present",Dissertation,2020,H_NF_2020,The New York Public Library Digital Collections
-History,Interactive Book,Nichelle Stephanie Frank,Sanitizing History: Environmental Cleanup and Historic Preservation in U.S. West Mining Communities,Dissertation,2020,H_MK_2009,Documenting the American South
-History,Historic Book,Matthew Kruer,"Red Albion: Genocide and English Colonialism, 1622-1646",Dissertation,2009,H_JA_2013,Katipunan: Documents and Studies
-History,Historic Document,Jose Amiel P. Angeles,As Our Might Grows Less: The Philippine-American War in Context,Dissertation,2013,H_CMS_2013,Google eBook
-History,Historic Document,Clinton Matthew Sandvick,Licensing American Physicians: 1870-1907,Dissertation,2013,H_MM_2017,Leatherneck.com
-History,Internet Forum,Michael Sean Munger,Ten Years of Winter: The Cold Decade and Environmental Consciousness in the Early 19th Century,Dissertation,2017,H_TG_2014,National Diet Library Digital Collections
-History,Image,Tristan R. Grunow,"Empire by Design: Railways, Architecture, and Urban Planning in Tokyo, Taipei, and Seoul",Dissertation,2014,H_SL_2018,New York Public Library Digital Collections
+History,Historic Book,Clinton Matthew Sandvick,Licensing American Physicians: 1870-1907,Dissertation,2013,H_CMS_2013,Google eBook
+History,Interactive Book,Nichelle Stephanie Frank,Sanitizing History: Environmental Cleanup and Historic Preservation in U.S. West Mining Communities,Dissertation,2020,H_NF_2020,Archive.org
+History,Interactive Book,Rebecca Lindsay Hastings,"Oil Capital: Industry and Society in Baku, Azerbaijan, 1870-Present",Dissertation,2020,H_RH_2020,Princeton University Digital Library
+History,Interactive Book,Nichelle Stephanie Frank,Sanitizing History: Environmental Cleanup and Historic Preservation in U.S. West Mining Communities,Dissertation,2020,H_NF_2020,The New York Public Library Digital Collections
+History,Historic Book,Matthew Kruer,"Red Albion: Genocide and English Colonialism, 1622-1646",Dissertation,2009,H_MK_2009,Documenting the American South
+History,Historic Document,Jose Amiel P. Angeles,As Our Might Grows Less: The Philippine-American War in Context,Dissertation,2013,H_JA_2013,Katipunan: Documents and Studies
+History,Historic Document,Clinton Matthew Sandvick,Licensing American Physicians: 1870-1907,Dissertation,2013,H_CMS_2013,Google eBook
+History,Internet Forum,Michael Sean Munger,Ten Years of Winter: The Cold Decade and Environmental Consciousness in the Early 19th Century,Dissertation,2017,H_MM_2017,Leatherneck.com
+History,Image,Tristan R. Grunow,"Empire by Design: Railways, Architecture, and Urban Planning in Tokyo, Taipei, and Seoul",Dissertation,2014,H_TG_2014,National Diet Library Digital Collections
+History,Image,Steven G. Leone,"Grave Concerns: Decay, Death, and Nature in the Early Republic",Dissertation,2018,H_SL_2018,New York Public Library Digital Collections
 History,Image,Steven G. Leone,"Grave Concerns: Decay, Death, and Nature in the Early Republic",Dissertation,2018,H_SL_2018,University of Texas Libraries
-History,Image,Steven G. Leone,"Grave Concerns: Decay, Death, and Nature in the Early Republic",Dissertation,2018,H_TG_2014,National Archives of Japan Digital Archive
-History,Image,Tristan R. Grunow,"Empire by Design: Railways, Architecture, and Urban Planning in Tokyo, Taipei, and Seoul",Dissertation,2014,H_NF_2020,Montana Memory Project
-History,Newspaper,Nichelle Stephanie Frank,Sanitizing History: Environmental Cleanup and Historic Preservation in U.S. West Mining Communities,Dissertation,2020,H_JB_2018,John F. Kennedy Presidential Library
+History,Image,Tristan R. Grunow,"Empire by Design: Railways, Architecture, and Urban Planning in Tokyo, Taipei, and Seoul",Dissertation,2014,H_TG_2014,National Archives of Japan Digital Archive
+History,Newspaper,Nichelle Stephanie Frank,Sanitizing History: Environmental Cleanup and Historic Preservation in U.S. West Mining Communities,Dissertation,2020,H_NF_2020,Montana Memory Project
+History,Transcript,John Bedan,The Price of Progress: Guatemala and the United States During the Alliance for Progress Era,Dissertation,2018,H_JB_2018,John F. Kennedy Presidential Library
 History,Transcript,John Bedan,The Price of Progress: Guatemala and the United States During the Alliance for Progress Era,Dissertation,2018,H_JB_2018,Library of Congress
-History,Transcript,John Bedan,The Price of Progress: Guatemala and the United States During the Alliance for Progress Era,Dissertation,2018,H_MM_2017,Maine Memory Network
-History,Image,Michael Sean Munger,Ten Years of Winter: The Cold Decade and Environmental Consciousness in the Early 19th Century,Dissertation,2017,H_SL_2018,Museum of the City of New York
-History,Image,Steven G. Leone,"Grave Concerns: Decay, Death, and Nature in the Early Republic",Dissertation,2018,H_NF_2020,Denver Public Library
-History,Image,Nichelle Stephanie Frank,Sanitizing History: Environmental Cleanup and Historic Preservation in U.S. West Mining Communities,Dissertation,2020,H_RH_2020,Wikimedia Commons
-History,Image,Rebecca Lindsay Hastings,"Oil Capital: Industry and Society in Baku, Azerbaijan, 1870-Present",Dissertation,2020,H_MM_2017,Tacitus.nu
-History,Statistics Data,Michael Sean Munger,Ten Years of Winter: The Cold Decade and Environmental Consciousness in the Early 19th Century,Dissertation,2017,H_JF_2019,British Museum
-History,Image,Joshua Jacob Fitzgerald,"Unholy Pedagogy: Local Knowledge, Indigenous Intermediaries, and the Lessons From Spanish Colonial Learningscapes, 1400-1650",Dissterations,2019,H_JF_2019,Government of Mexico
-History,Webpage,Joshua Jacob Fitzgerald,"Unholy Pedagogy: Local Knowledge, Indigenous Intermediaries, and the Lessons From Spanish Colonial Learningscapes, 1400-1650",Dissterations,2019,H_JF_2019,World Digital Library
-History,Image,Joshua Jacob Fitzgerald,"Unholy Pedagogy: Local Knowledge, Indigenous Intermediaries, and the Lessons From Spanish Colonial Learningscapes, 1400-1650",Dissterations,2019,H_RV_2016,Bracero History Archive
-History,Webpage,Richard Velazquez,Migrant Pathways: Urbanization and Transnational Migration in Twentieth Century Mexico,Graduate Thesis,2016,H_OW_2019,Densho Digital Repository
+History,Image,Michael Sean Munger,Ten Years of Winter: The Cold Decade and Environmental Consciousness in the Early 19th Century,Dissertation,2017,H_MM_2017,Maine Memory Network
+History,Image,Steven G. Leone,"Grave Concerns: Decay, Death, and Nature in the Early Republic",Dissertation,2018,H_SL_2018,Museum of the City of New York
+History,Image,Nichelle Stephanie Frank,Sanitizing History: Environmental Cleanup and Historic Preservation in U.S. West Mining Communities,Dissertation,2020,H_NF_2020,Denver Public Library
+History,Image,Rebecca Lindsay Hastings,"Oil Capital: Industry and Society in Baku, Azerbaijan, 1870-Present",Dissertation,2020,H_RH_2020,Wikimedia Commons
+History,Statistics Data,Michael Sean Munger,Ten Years of Winter: The Cold Decade and Environmental Consciousness in the Early 19th Century,Dissertation,2017,H_MM_2017,Tacitus.nu
+History,Image,Joshua Jacob Fitzgerald,"Unholy Pedagogy: Local Knowledge, Indigenous Intermediaries, and the Lessons From Spanish Colonial Learningscapes, 1400-1650",Dissterations,2019,H_JF_2019,British Museum
+History,Webpage,Joshua Jacob Fitzgerald,"Unholy Pedagogy: Local Knowledge, Indigenous Intermediaries, and the Lessons From Spanish Colonial Learningscapes, 1400-1650",Dissterations,2019,H_JF_2019,Government of Mexico
+History,Image,Joshua Jacob Fitzgerald,"Unholy Pedagogy: Local Knowledge, Indigenous Intermediaries, and the Lessons From Spanish Colonial Learningscapes, 1400-1650",Dissterations,2019,H_JF_2019,World Digital Library
+History,Webpage,Richard Velazquez,Migrant Pathways: Urbanization and Transnational Migration in Twentieth Century Mexico,Graduate Thesis,2016,H_RV_2016,Bracero History Archive
+History,Archival Record,Olivia G. Wing,"A Precarious Home: Japanese American Incarceration, Citizenship, and Strategies for Belonging, 1940s-1960s",Graduate Thesis,2019,H_OW_2019,Densho Digital Repository
 History,Archival Record,Olivia G. Wing,"A Precarious Home: Japanese American Incarceration, Citizenship, and Strategies for Belonging, 1940s-1960s",Graduate Thesis,2019,H_OW_2019,University of Washington Libraries
-History,Archival Record,Olivia G. Wing,"A Precarious Home: Japanese American Incarceration, Citizenship, and Strategies for Belonging, 1940s-1960s",Graduate Thesis,2019,H_LG_2018,Indiana University Bloomington
-History,Webpage,Lacey M. Guest,"A Special Relationship of Peculiar Intimacy: Marriage Education in the United States, 1920s-1930s",Graduate Thesis,2018,H_MJR_2017,Odysseo Digital Archive
-History,Article,Miles James Reding,"Yesterday's Colonization and Today's Immigration: An Intellectual Biography of Abdelmalek Sayad, 1957-1998",Graduate Thesis,2017,H_SG_2014,California College of the Arts
-History,Webpage,Shelley A. Grosjean,"Making Ourselves Real: Jean and Ruth Mountaingrove in the Southern Oregon Lesbian-Feminist Community, 1970-1984",Graduate Thesis,2014,H_CM_2014,UC Santa Barbara
-History,Webpage,Christopher R. McQuilkin,"An Excellent Laboratory: U.S. Foreign Aid In Paraguay, 1942-1954",Graduate Thesis,2014,H_AD_2015,BBC News
-History,Webpage,Adrian D. S. Donovan,Has the Ship Sailed? The Changing Roles After World War II of Domestic Water Transport in the Island Nations of Britain and Japan,Graduate Thesis,2015,H_EC_2015,The Asian-Pacific Journal: Japan Focus
+History,Webpage,Lacey M. Guest,"A Special Relationship of Peculiar Intimacy: Marriage Education in the United States, 1920s-1930s",Graduate Thesis,2018,H_LG_2018,Indiana University Bloomington
+History,Article,Miles James Reding,"Yesterday's Colonization and Today's Immigration: An Intellectual Biography of Abdelmalek Sayad, 1957-1998",Graduate Thesis,2017,H_MJR_2017,Odysseo Digital Archive
+History,Webpage,Shelley A. Grosjean,"Making Ourselves Real: Jean and Ruth Mountaingrove in the Southern Oregon Lesbian-Feminist Community, 1970-1984",Graduate Thesis,2014,H_SG_2014,California College of the Arts
+History,Webpage,Christopher R. McQuilkin,"An Excellent Laboratory: U.S. Foreign Aid In Paraguay, 1942-1954",Graduate Thesis,2014,H_CM_2014,UC Santa Barbara
+History,Webpage,Adrian D. S. Donovan,Has the Ship Sailed? The Changing Roles After World War II of Domestic Water Transport in the Island Nations of Britain and Japan,Graduate Thesis,2015,H_AD_2015,BBC News
+History,Webpage,Emily Elizabeth Cole,"Towards a New Way of Seeing: Finding Reality in Postwar Japanese Photography, 1945-1970",Graduate Thesis,2015,H_EC_2015,The Asian-Pacific Journal: Japan Focus
 History,Webpage,Emily Elizabeth Cole,"Towards a New Way of Seeing: Finding Reality in Postwar Japanese Photography, 1945-1970",Graduate Thesis,2015,H_EC_2015,World War II Database
-History,Webpage,Emily Elizabeth Cole,"Towards a New Way of Seeing: Finding Reality in Postwar Japanese Photography, 1945-1970",Graduate Thesis,2015,H_LG_2018,The Atlantic
+History,Webpage,Lacey M. Guest,"A Special Relationship of Peculiar Intimacy: Marriage Education in the United States, 1920s-1930s",Graduate Thesis,2018,H_LG_2018,The Atlantic
 History,Webpage,Lacey M. Guest,"A Special Relationship of Peculiar Intimacy: Marriage Education in the United States, 1920s-1930s",Graduate Thesis,2018,H_LG_2018,The Chicago Tribune
 History,Webpage,Lacey M. Guest,"A Special Relationship of Peculiar Intimacy: Marriage Education in the United States, 1920s-1930s",Graduate Thesis,2018,H_LG_2018,Today.com
 History,Webpage,Lacey M. Guest,"A Special Relationship of Peculiar Intimacy: Marriage Education in the United States, 1920s-1930s",Graduate Thesis,2018,H_LG_2018,University of North Carolina at Chapel Hill Libraries
-History,Webpage,Lacey M. Guest,"A Special Relationship of Peculiar Intimacy: Marriage Education in the United States, 1920s-1930s",Graduate Thesis,2018,H_EB_2018,Wikimedia Commons
-History,Webpage,Eric D. Benjaminson,"The Soviet Critique of a Liberator's Art and a Poet's Outcry: Zinovii Tolkachev, Pavel Antokol'skii and the Anti-Cosmopolitan Persecutions of the Late Stalinist Period",Graduate Thesis,2018,H_MY_2019,Cannery Life: Del Monte in the Santa Clara Valley
-History,Webpage,Moeko Yamazaki,"Road Not Taken: Dissident Teamsters and the End of the New Deal Order, 1969-1980",Graduate Thesis,2019,H_AP_2020,Harvard Gazette
+History,Webpage,Eric D. Benjaminson,"The Soviet Critique of a Liberator's Art and a Poet's Outcry: Zinovii Tolkachev, Pavel Antokol'skii and the Anti-Cosmopolitan Persecutions of the Late Stalinist Period",Graduate Thesis,2018,H_EB_2018,Wikimedia Commons
+History,Webpage,Moeko Yamazaki,"Road Not Taken: Dissident Teamsters and the End of the New Deal Order, 1969-1980",Graduate Thesis,2019,H_MY_2019,Cannery Life: Del Monte in the Santa Clara Valley
+History,Webpage,Ariana Bettina Persico,Invisible Indigeneity: Examing the Indigenous Historical Landscape in Oregon,Graduate Thesis,2020,H_AP_2020,Harvard Gazette
 History,Webpage,Ariana Bettina Persico,Invisible Indigeneity: Examing the Indigenous Historical Landscape in Oregon,Graduate Thesis,2020,H_AP_2020,Oregon Secretary of State
 History,Webpage,Ariana Bettina Persico,Invisible Indigeneity: Examing the Indigenous Historical Landscape in Oregon,Graduate Thesis,2020,H_AP_2020,The Atlantic
-History,Webpage,Ariana Bettina Persico,Invisible Indigeneity: Examing the Indigenous Historical Landscape in Oregon,Graduate Thesis,2020,H_JF_2019,Project Gutenberg
-History,Book,Jamie S. Frick,"Wasteful, Unpalatable, Unhealthful, and Monotonous Cookery: Culinary Education and Enterprise in US Industrial Society, 1870-1909",Graduate Thesis,2019,H_JF_2019,Michigan State University Digital Repository
-History,Historic Document,Jamie S. Frick,"Wasteful, Unpalatable, Unhealthful, and Monotonous Cookery: Culinary Education and Enterprise in US Industrial Society, 1870-1909",Graduate Thesis,2019,H_EC_2015,Britannica
+History,Book,Jamie S. Frick,"Wasteful, Unpalatable, Unhealthful, and Monotonous Cookery: Culinary Education and Enterprise in US Industrial Society, 1870-1909",Graduate Thesis,2019,H_JF_2019,Project Gutenberg
+History,Historic Document,Jamie S. Frick,"Wasteful, Unpalatable, Unhealthful, and Monotonous Cookery: Culinary Education and Enterprise in US Industrial Society, 1870-1909",Graduate Thesis,2019,H_JF_2019,Michigan State University Digital Repository
+History,Webpage,Emily Elizabeth Cole,"Towards a New Way of Seeing: Finding Reality in Postwar Japanese Photography, 1945-1970",Graduate Thesis,2015,H_EC_2015,Britannica
 History,Webpage,Emily Elizabeth Cole,"Towards a New Way of Seeing: Finding Reality in Postwar Japanese Photography, 1945-1970",Graduate Thesis,2015,H_EC_2015,New World Encyclopedia
-History,Webpage,Emily Elizabeth Cole,"Towards a New Way of Seeing: Finding Reality in Postwar Japanese Photography, 1945-1970",Graduate Thesis,2015,H_JF_2019,Encyclopedia of Chicago
-History,Webpage,Jamie S. Frick,"Wasteful, Unpalatable, Unhealthful, and Monotonous Cookery: Culinary Education and Enterprise in US Industrial Society, 1870-1909",Graduate Thesis,2019,H_CS_2020,Economic History Association
-History,Webpage,Christopher Ross Simmerman,"Women's Political Economy and the Popularization of Malthus in England, 1815-1835",Graduate Thesis,2020,H_BG_2013,Tokyo National Museum
-History,Image,Breann M. Goosmann,Challenges to Survival: Responses of Outcasts and Commoners in Early Medieval Japan,Graduate Thesis,2013,H_CM_2014,C-Span.org
-History,Video,Christopher R. McQuilkin,"An Excellent Laboratory: U.S. Foreign Aid In Paraguay, 1942-1954",Graduate Thesis,2014,H_CS_2014,PBS
-History,Video,Christopher C. Smith,From the Plains to the Plateau: Indian and Emigrant Interactions During the Overland Trail Migrations,Graduate Thesis,2014,H_LG_2018,North Carolina Central University
+History,Webpage,Jamie S. Frick,"Wasteful, Unpalatable, Unhealthful, and Monotonous Cookery: Culinary Education and Enterprise in US Industrial Society, 1870-1909",Graduate Thesis,2019,H_JF_2019,Encyclopedia of Chicago
+History,Webpage,Christopher Ross Simmerman,"Women's Political Economy and the Popularization of Malthus in England, 1815-1835",Graduate Thesis,2020,H_CS_2020,Economic History Association
+History,Image,Breann M. Goosmann,Challenges to Survival: Responses of Outcasts and Commoners in Early Medieval Japan,Graduate Thesis,2013,H_BG_2013,Tokyo National Museum
+History,Video,Christopher R. McQuilkin,"An Excellent Laboratory: U.S. Foreign Aid In Paraguay, 1942-1954",Graduate Thesis,2014,H_CM_2014,C-Span.org
+History,Video,Christopher C. Smith,From the Plains to the Plateau: Indian and Emigrant Interactions During the Overland Trail Migrations,Graduate Thesis,2014,H_CS_2014,PBS
+History,Webpage,Lacey M. Guest,"A Special Relationship of Peculiar Intimacy: Marriage Education in the United States, 1920s-1930s",Graduate Thesis,2018,H_LG_2018,North Carolina Central University
 History,Webpage,Lacey M. Guest,"A Special Relationship of Peculiar Intimacy: Marriage Education in the United States, 1920s-1930s",Graduate Thesis,2018,H_LG_2018,Virginia Heritage
-History,Webpage,Lacey M. Guest,"A Special Relationship of Peculiar Intimacy: Marriage Education in the United States, 1920s-1930s",Graduate Thesis,2018,H_SG_2014,Archives West
-History,Historic Document,Shelley A. Grosjean,"Making Ourselves Real: Jean and Ruth Mountaingrove in the Southern Oregon Lesbian-Feminist Community, 1970-1984",Graduate Thesis,2014,H_CS_2014,University of Wisconsin-Madison Libraries
-History,Historic Document,Christopher C. Smith,From the Plains to the Plateau: Indian and Emigrant Interactions During the Overland Trail Migrations,Graduate Thesis,2014,H_ZB_2017,Biblioteca del Congreso Argentina
-History,Historic Document,Zachary R. Bigalke,"If They Can Die for Italy, They Can Play for Italy!"": Immigration, Italo-Argentine Identity, and the 1934 Italian World Cup Team",Graduate Thesis,2017,H_LB_2012,Hanover College
-History,Historic Document,Lucas N. N. Burke,"The Model City: Civil Rights, The Black Panther Party, and the Revolution of Urban Politics in Portland, Oregon",Graduate Thesis,2012,H_CS_2014,Archive.org
+History,Historic Document,Shelley A. Grosjean,"Making Ourselves Real: Jean and Ruth Mountaingrove in the Southern Oregon Lesbian-Feminist Community, 1970-1984",Graduate Thesis,2014,H_SG_2014,Archives West
+History,Historic Document,Christopher C. Smith,From the Plains to the Plateau: Indian and Emigrant Interactions During the Overland Trail Migrations,Graduate Thesis,2014,H_CS_2014,University of Wisconsin-Madison Libraries
+History,Historic Document,Zachary R. Bigalke,"If They Can Die for Italy, They Can Play for Italy!"": Immigration, Italo-Argentine Identity, and the 1934 Italian World Cup Team",Graduate Thesis,2017,H_ZB_2017,Biblioteca del Congreso Argentina
+History,Historic Document,Lucas N. N. Burke,"The Model City: Civil Rights, The Black Panther Party, and the Revolution of Urban Politics in Portland, Oregon",Graduate Thesis,2012,H_LB_2012,Hanover College
+History,Historic Document,Christopher C. Smith,From the Plains to the Plateau: Indian and Emigrant Interactions During the Overland Trail Migrations,Graduate Thesis,2014,H_CS_2014,Archive.org
 History,Historic Document,Christopher C. Smith,From the Plains to the Plateau: Indian and Emigrant Interactions During the Overland Trail Migrations,Graduate Thesis,2014,H_CS_2014,The University of Nebraska
-History,Historic Document,Christopher C. Smith,From the Plains to the Plateau: Indian and Emigrant Interactions During the Overland Trail Migrations,Graduate Thesis,2014,H_JF_2019,HathiTrust
-History,Interactive Book,Jamie S. Frick,"Wasteful, Unpalatable, Unhealthful, and Monotonous Cookery: Culinary Education and Enterprise in US Industrial Society, 1870-1909",Graduate Thesis,2019,H_ZB_2017,David Rumsey Map Collection
+History,Interactive Book,Jamie S. Frick,"Wasteful, Unpalatable, Unhealthful, and Monotonous Cookery: Culinary Education and Enterprise in US Industrial Society, 1870-1909",Graduate Thesis,2019,H_JF_2019,HathiTrust
 History,Image,Zachary R. Bigalke,"If They Can Die for Italy, They Can Play for Italy!"": Immigration, Italo-Argentine Identity, and the 1934 Italian World Cup Team",Graduate Thesis,2017,H_ZB_2017,David Rumsey Map Collection
-History,Image,Zachary R. Bigalke,"If They Can Die for Italy, They Can Play for Italy!"": Immigration, Italo-Argentine Identity, and the 1934 Italian World Cup Team",Graduate Thesis,2017,H_JF_2019,Library of Congress
-History,Image,Jamie S. Frick,"Wasteful, Unpalatable, Unhealthful, and Monotonous Cookery: Culinary Education and Enterprise in US Industrial Society, 1870-1909",Graduate Thesis,2019,H_CM_2014,Truman Library
-History,Audio,Christopher R. McQuilkin,"An Excellent Laboratory: U.S. Foreign Aid In Paraguay, 1942-1954",Graduate Thesis,2014,H_OW_2019,Online Archive of California
-History,Audio,Olivia G. Wing,"A Precarious Home: Japanese American Incarceration, Citizenship, and Strategies for Belonging, 1940s-1960s",Graduate Thesis,2019,H_IU_2019,umistapotlatch.ca
-History,Audio,Ian S. Urrea,"Our People Scattered: Violence, Captivity, and Colonialism on the Northwest Coast, 1774-1846",Graduate Thesis,2019,H_JB_2013,Library of Congress
-History,Transcript,John Bedan,No Second Chances: US-Guatemalan Relations in the 1960s,Graduate Thesis,2013,H_SG_2014,Oregon Digital
-History,Image,Shelley A. Grosjean,"Making Ourselves Real: Jean and Ruth Mountaingrove in the Southern Oregon Lesbian-Feminist Community, 1970-1984",Graduate Thesis,2014,H_ML_2017,Eichfelder
-History,Image,Margaret L. Ingram,Bodies that Speak: Early Modern European Gender Distinctions in Bleeding Corpses and Demoniacs,Graduate Thesis,2017,H_ZB_2017,FIFA.com
+History,Image,Zachary R. Bigalke,"If They Can Die for Italy, They Can Play for Italy!"": Immigration, Italo-Argentine Identity, and the 1934 Italian World Cup Team",Graduate Thesis,2017,H_ZB_2017,David Rumsey Map Collection
+History,Image,Jamie S. Frick,"Wasteful, Unpalatable, Unhealthful, and Monotonous Cookery: Culinary Education and Enterprise in US Industrial Society, 1870-1909",Graduate Thesis,2019,H_JF_2019,Library of Congress
+History,Audio,Christopher R. McQuilkin,"An Excellent Laboratory: U.S. Foreign Aid In Paraguay, 1942-1954",Graduate Thesis,2014,H_CM_2014,Truman Library
+History,Audio,Olivia G. Wing,"A Precarious Home: Japanese American Incarceration, Citizenship, and Strategies for Belonging, 1940s-1960s",Graduate Thesis,2019,H_OW_2019,Online Archive of California
+History,Audio,Ian S. Urrea,"Our People Scattered: Violence, Captivity, and Colonialism on the Northwest Coast, 1774-1846",Graduate Thesis,2019,H_IU_2019,umistapotlatch.ca
+History,Transcript,John Bedan,No Second Chances: US-Guatemalan Relations in the 1960s,Graduate Thesis,2013,H_JB_2013,Library of Congress
+History,Image,Shelley A. Grosjean,"Making Ourselves Real: Jean and Ruth Mountaingrove in the Southern Oregon Lesbian-Feminist Community, 1970-1984",Graduate Thesis,2014,H_SG_2014,Oregon Digital
+History,Image,Margaret L. Ingram,Bodies that Speak: Early Modern European Gender Distinctions in Bleeding Corpses and Demoniacs,Graduate Thesis,2017,H_ML_2017,Eichfelder
+History,Image,Zachary R. Bigalke,"If They Can Die for Italy, They Can Play for Italy!"": Immigration, Italo-Argentine Identity, and the 1934 Italian World Cup Team",Graduate Thesis,2017,H_ZB_2017,FIFA.com
 History,Image,Zachary R. Bigalke,"If They Can Die for Italy, They Can Play for Italy!"": Immigration, Italo-Argentine Identity, and the 1934 Italian World Cup Team",Graduate Thesis,2017,H_ZB_2017,Wikimedia Commons
-History,Image,Zachary R. Bigalke,"If They Can Die for Italy, They Can Play for Italy!"": Immigration, Italo-Argentine Identity, and the 1934 Italian World Cup Team",Graduate Thesis,2017,H_IU_2019,University of Victoria Art Collection
-History,Image,Ian S. Urrea,"Our People Scattered: Violence, Captivity, and Colonialism on the Northwest Coast, 1774-1846",Graduate Thesis,2019,H_BG_2013,Oregon Digital
-History,Image,Breann M. Goosmann,Challenges to Survival: Responses of Outcasts and Commoners in Early Medieval Japan,Graduate Thesis,2013,H_EC_2015,Statistics Japan
-History,Statistics Data,Emily Elizabeth Cole,"Towards a New Way of Seeing: Finding Reality in Postwar Japanese Photography, 1945-1970",Graduate Thesis,2015,H_AP_2020,Twitter
-History,Social Media Post,Ariana Bettina Persico,Invisible Indigeneity: Examing the Indigenous Historical Landscape in Oregon,Graduate Thesis,2020,H_SG_2014,YouTube
-History,Video,Shelley A. Grosjean,"Making Ourselves Real: Jean and Ruth Mountaingrove in the Southern Oregon Lesbian-Feminist Community, 1970-1984",Graduate Thesis,2014,AHA_MA_2018,Brown Political Review
-Art History and Architecture,Magazine Article,Maryam A M A Alwazzan,"Reframing Borders: A Study of the Veil, Writing, and Representaiton of the Female Body in the Photo-Based Artwork of Mona Hatoum, Shirin Neshat, and Lalla Essaydi",Graduate Thesis,2018,AHA_MA_2018,The Perception of Female Beauty in Art
-Art History and Architecture,Blog Post,Maryam A M A Alwazzan,"Reframing Borders: A Study of the Veil, Writing, and Representaiton of the Female Body in the Photo-Based Artwork of Mona Hatoum, Shirin Neshat, and Lalla Essaydi",Graduate Thesis,2018,AHA_CC_2019,Artnet News
+History,Image,Ian S. Urrea,"Our People Scattered: Violence, Captivity, and Colonialism on the Northwest Coast, 1774-1846",Graduate Thesis,2019,H_IU_2019,University of Victoria Art Collection
+History,Image,Breann M. Goosmann,Challenges to Survival: Responses of Outcasts and Commoners in Early Medieval Japan,Graduate Thesis,2013,H_BG_2013,Oregon Digital
+History,Statistics Data,Emily Elizabeth Cole,"Towards a New Way of Seeing: Finding Reality in Postwar Japanese Photography, 1945-1970",Graduate Thesis,2015,H_EC_2015,Statistics Japan
+History,Social Media Post,Ariana Bettina Persico,Invisible Indigeneity: Examing the Indigenous Historical Landscape in Oregon,Graduate Thesis,2020,H_AP_2020,Twitter
+History,Video,Shelley A. Grosjean,"Making Ourselves Real: Jean and Ruth Mountaingrove in the Southern Oregon Lesbian-Feminist Community, 1970-1984",Graduate Thesis,2014,H_SG_2014,YouTube
+Art History and Architecture,Magazine Article,Maryam A M A Alwazzan,"Reframing Borders: A Study of the Veil, Writing, and Representaiton of the Female Body in the Photo-Based Artwork of Mona Hatoum, Shirin Neshat, and Lalla Essaydi",Graduate Thesis,2018,AHA_MA_2018,Brown Political Review
+Art History and Architecture,Blog Post,Maryam A M A Alwazzan,"Reframing Borders: A Study of the Veil, Writing, and Representaiton of the Female Body in the Photo-Based Artwork of Mona Hatoum, Shirin Neshat, and Lalla Essaydi",Graduate Thesis,2018,AHA_MA_2018,The Perception of Female Beauty in Art
+Art History and Architecture,Blog Post,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_CC_2019,Artnet News
 Art History and Architecture,Blog Post,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_CC_2019,Lithub
 Art History and Architecture,Blog Post,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_CC_2019,Art News
-Art History and Architecture,Blog Post,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_CD_2015,Theory Now
-Art History and Architecture,Blog Post,Catherine R. Denning,"Departing from History: Sharon Hayes, Reenactment and Archival Practice in Contemporary Art",Graduate Thesis,2015,AHA_CB_2016,Syria
+Art History and Architecture,Blog Post,Catherine R. Denning,"Departing from History: Sharon Hayes, Reenactment and Archival Practice in Contemporary Art",Graduate Thesis,2015,AHA_CD_2015,Theory Now
+Art History and Architecture,OA Journal Article,Chyna N. Bounds,Critiquing the French the Satirical Monuments of James Gillray and George Cruikshank,Graduate Thesis,2016,AHA_CB_2016,Syria
 Art History and Architecture,OA Journal Article,Chyna N. Bounds,Critiquing the French the Satirical Monuments of James Gillray and George Cruikshank,Graduate Thesis,2016,AHA_CB_2016,The Royal Society Publishing
-Art History and Architecture,OA Journal Article,Chyna N. Bounds,Critiquing the French the Satirical Monuments of James Gillray and George Cruikshank,Graduate Thesis,2016,AHA_MA_2018,International Journal of Constitutional Law
-Art History and Architecture,OA Journal Article,Maryam A M A Alwazzan,"Reframing Borders: A Study of the Veil, Writing, and Representaiton of the Female Body in the Photo-Based Artwork of Mona Hatoum, Shirin Neshat, and Lalla Essaydi",Graduate Thesis,2018,AHA_CD_2015,LTTR.org
+Art History and Architecture,OA Journal Article,Maryam A M A Alwazzan,"Reframing Borders: A Study of the Veil, Writing, and Representaiton of the Female Body in the Photo-Based Artwork of Mona Hatoum, Shirin Neshat, and Lalla Essaydi",Graduate Thesis,2018,AHA_MA_2018,International Journal of Constitutional Law
+Art History and Architecture,OA Journal Article,Catherine R. Denning,"Departing from History: Sharon Hayes, Reenactment and Archival Practice in Contemporary Art",Graduate Thesis,2015,AHA_CD_2015,LTTR.org
 Art History and Architecture,OA Journal Article,Catherine R. Denning,"Departing from History: Sharon Hayes, Reenactment and Archival Practice in Contemporary Art",Graduate Thesis,2015,AHA_CD_2015,e-flux
-Art History and Architecture,OA Journal Article,Catherine R. Denning,"Departing from History: Sharon Hayes, Reenactment and Archival Practice in Contemporary Art",Graduate Thesis,2015,AHA_MA_2018,Osgoode Digital Commons
-Art History and Architecture,OA Journal Article,Maryam A M A Alwazzan,"Reframing Borders: A Study of the Veil, Writing, and Representaiton of the Female Body in the Photo-Based Artwork of Mona Hatoum, Shirin Neshat, and Lalla Essaydi",Graduate Thesis,2018,AHA_AA_2017,Traveling in Tuscany
+Art History and Architecture,OA Journal Article,Maryam A M A Alwazzan,"Reframing Borders: A Study of the Veil, Writing, and Representaiton of the Female Body in the Photo-Based Artwork of Mona Hatoum, Shirin Neshat, and Lalla Essaydi",Graduate Thesis,2018,AHA_MA_2018,Osgoode Digital Commons
+Art History and Architecture,Webpage,Amelia Kate Anderson,Performing Upon Her Painted Piano: The Burne-Jones Pianos and the Victorian Female Gender Performance,Graduate Thesis,2017,AHA_AA_2017,Traveling in Tuscany
 Art History and Architecture,Webpage,Amelia Kate Anderson,Performing Upon Her Painted Piano: The Burne-Jones Pianos and the Victorian Female Gender Performance,Graduate Thesis,2017,AHA_AA_2017,Victoria and Albert Museum
-Art History and Architecture,Webpage,Amelia Kate Anderson,Performing Upon Her Painted Piano: The Burne-Jones Pianos and the Victorian Female Gender Performance,Graduate Thesis,2017,AHA_LA_2019,Hyperallergic
+Art History and Architecture,Webpage,Landry Elizabeth Austin,"Remaking the Rainbow: Queer Memorialization, Counter-Histories, Kinship, and Local Tradition in Taipei's ""Spectrosynthesis""",Graduate Thesis,2019,AHA_LA_2019,Hyperallergic
 Art History and Architecture,Webpage,Landry Elizabeth Austin,"Remaking the Rainbow: Queer Memorialization, Counter-Histories, Kinship, and Local Tradition in Taipei's ""Spectrosynthesis""",Graduate Thesis,2019,AHA_LA_2019,The Guardian
-Art History and Architecture,Webpage,Landry Elizabeth Austin,"Remaking the Rainbow: Queer Memorialization, Counter-Histories, Kinship, and Local Tradition in Taipei's ""Spectrosynthesis""",Graduate Thesis,2019,AHA_MA_2018,Bomb Magazine
+Art History and Architecture,Webpage,Maryam A M A Alwazzan,"Reframing Borders: A Study of the Veil, Writing, and Representaiton of the Female Body in the Photo-Based Artwork of Mona Hatoum, Shirin Neshat, and Lalla Essaydi",Graduate Thesis,2018,AHA_MA_2018,Bomb Magazine
 Art History and Architecture,Webpage,Maryam A M A Alwazzan,"Reframing Borders: A Study of the Veil, Writing, and Representaiton of the Female Body in the Photo-Based Artwork of Mona Hatoum, Shirin Neshat, and Lalla Essaydi",Graduate Thesis,2018,AHA_MA_2018,The Photo Argus
-Art History and Architecture,Webpage,Maryam A M A Alwazzan,"Reframing Borders: A Study of the Veil, Writing, and Representaiton of the Female Body in the Photo-Based Artwork of Mona Hatoum, Shirin Neshat, and Lalla Essaydi",Graduate Thesis,2018,AHA_ZC_2021,The Louvre
-Art History and Architecture,Webpage,Zane A. Casimir,The Adventurous Archaeologist and the Discovery of the Hellenistic Statue: An Archaeogaming Excavation of the Japanese Video Game Site,Graduate Thesis,2021,AHA_CC_2019,The Guardian
+Art History and Architecture,Webpage,Zane A. Casimir,The Adventurous Archaeologist and the Discovery of the Hellenistic Statue: An Archaeogaming Excavation of the Japanese Video Game Site,Graduate Thesis,2021,AHA_ZC_2021,The Louvre
+Art History and Architecture,Webpage,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_CC_2019,The Guardian
 Art History and Architecture,Webpage,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_CC_2019,The New York Times
 Art History and Architecture,Webpage,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_CC_2019,ArtForum
 Art History and Architecture,Webpage,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_CC_2019,The New York Times
-Art History and Architecture,Webpage,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_CC_2019,Los Angeles Times
-Art History and Architecture,Article,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_YC_2019,gov.cn
-Art History and Architecture,Census Data,Yinxue Chen,"Inventing Chinese Modernism: The Art and Design of Pang Xunqin (Hiunkin Pang), 1930s-1940s",Graduate Thesis,2019,AHA_CB_2016,Britannica
-Art History and Architecture,Encyclopedia Entry,Chyna N. Bounds,Critiquing the French the Satirical Monuments of James Gillray and George Cruikshank,Graduate Thesis,2016,AHA_MA_2018,LIMA
-Art History and Architecture,Video,Maryam A M A Alwazzan,"Reframing Borders: A Study of the Veil, Writing, and Representaiton of the Female Body in the Photo-Based Artwork of Mona Hatoum, Shirin Neshat, and Lalla Essaydi",Graduate Thesis,2018,AHA_CC_2019,Charlesrossstudio.com
-Art History and Architecture,Video,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_CD_2015,Clocktower
-Art History and Architecture,Audio,Catherine R. Denning,"Departing from History: Sharon Hayes, Reenactment and Archival Practice in Contemporary Art",Graduate Thesis,2015,AHA_CD_2015,YouTube
-Art History and Architecture,Video,Catherine R. Denning,"Departing from History: Sharon Hayes, Reenactment and Archival Practice in Contemporary Art",Graduate Thesis,2015,AHA_MA_2018,Translation Journal
-Art History and Architecture,OA Journal Article,Maryam A M A Alwazzan,"Reframing Borders: A Study of the Veil, Writing, and Representaiton of the Female Body in the Photo-Based Artwork of Mona Hatoum, Shirin Neshat, and Lalla Essaydi",Graduate Thesis,2018,AHA_ZC_2021,Archive.org
-Art History and Architecture,Interactive Book,Zane A. Casimir,The Adventurous Archaeologist and the Discovery of the Hellenistic Statue: An Archaeogaming Excavation of the Japanese Video Game Site,Graduate Thesis,2021,AHA_CD_2015,Frieze
-Art History and Architecture,Magazine,Catherine R. Denning,"Departing from History: Sharon Hayes, Reenactment and Archival Practice in Contemporary Art",Graduate Thesis,2015,AHA_ZC_2021,Wikimedia Commons
-Art History and Architecture,Image,Zane A. Casimir,The Adventurous Archaeologist and the Discovery of the Hellenistic Statue: An Archaeogaming Excavation of the Japanese Video Game Site,Graduate Thesis,2021,AHA_CC_2019,YouTube
-Art History and Architecture,Video,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_CC_2019,Smithsonian
-Art History and Architecture,Transcript,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_MA_2018,Museum of Fine Arts Boston
-Art History and Architecture,Image,Maryam A M A Alwazzan,"Reframing Borders: A Study of the Veil, Writing, and Representaiton of the Female Body in the Photo-Based Artwork of Mona Hatoum, Shirin Neshat, and Lalla Essaydi",Graduate Thesis,2018,AHA_YC_2019,The Palace Museum
-Art History and Architecture,Image,Yinxue Chen,"Inventing Chinese Modernism: The Art and Design of Pang Xunqin (Hiunkin Pang), 1930s-1940s",Graduate Thesis,2019,AHA_MA_2018,Lalla Essaydi
-Art History and Architecture,Webpage,Maryam A M A Alwazzan,"Reframing Borders: A Study of the Veil, Writing, and Representaiton of the Female Body in the Photo-Based Artwork of Mona Hatoum, Shirin Neshat, and Lalla Essaydi",Graduate Thesis,2018,AHA_ZC_2021,From the Archivist's Notebook
-Art History and Architecture,Image,Zane A. Casimir,The Adventurous Archaeologist and the Discovery of the Hellenistic Statue: An Archaeogaming Excavation of the Japanese Video Game Site,Graduate Thesis,2021,AHA_YC_2019,Archives.sh.cn
-Art History and Architecture,Image,Yinxue Chen,"Inventing Chinese Modernism: The Art and Design of Pang Xunqin (Hiunkin Pang), 1930s-1940s",Graduate Thesis,2019,AHA_CC_2019,theverge.com
+Art History and Architecture,Article,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_CC_2019,Los Angeles Times
+Art History and Architecture,Census Data,Yinxue Chen,"Inventing Chinese Modernism: The Art and Design of Pang Xunqin (Hiunkin Pang), 1930s-1940s",Graduate Thesis,2019,AHA_YC_2019,gov.cn
+Art History and Architecture,Encyclopedia Entry,Chyna N. Bounds,Critiquing the French the Satirical Monuments of James Gillray and George Cruikshank,Graduate Thesis,2016,AHA_CB_2016,Britannica
+Art History and Architecture,Video,Maryam A M A Alwazzan,"Reframing Borders: A Study of the Veil, Writing, and Representaiton of the Female Body in the Photo-Based Artwork of Mona Hatoum, Shirin Neshat, and Lalla Essaydi",Graduate Thesis,2018,AHA_MA_2018,LIMA
+Art History and Architecture,Video,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_CC_2019,Charlesrossstudio.com
+Art History and Architecture,Audio,Catherine R. Denning,"Departing from History: Sharon Hayes, Reenactment and Archival Practice in Contemporary Art",Graduate Thesis,2015,AHA_CD_2015,Clocktower
+Art History and Architecture,Video,Catherine R. Denning,"Departing from History: Sharon Hayes, Reenactment and Archival Practice in Contemporary Art",Graduate Thesis,2015,AHA_CD_2015,YouTube
+Art History and Architecture,OA Journal Article,Maryam A M A Alwazzan,"Reframing Borders: A Study of the Veil, Writing, and Representaiton of the Female Body in the Photo-Based Artwork of Mona Hatoum, Shirin Neshat, and Lalla Essaydi",Graduate Thesis,2018,AHA_MA_2018,Translation Journal
+Art History and Architecture,Interactive Book,Zane A. Casimir,The Adventurous Archaeologist and the Discovery of the Hellenistic Statue: An Archaeogaming Excavation of the Japanese Video Game Site,Graduate Thesis,2021,AHA_ZC_2021,Archive.org
+Art History and Architecture,Magazine,Catherine R. Denning,"Departing from History: Sharon Hayes, Reenactment and Archival Practice in Contemporary Art",Graduate Thesis,2015,AHA_CD_2015,Frieze
+Art History and Architecture,Image,Zane A. Casimir,The Adventurous Archaeologist and the Discovery of the Hellenistic Statue: An Archaeogaming Excavation of the Japanese Video Game Site,Graduate Thesis,2021,AHA_ZC_2021,Wikimedia Commons
+Art History and Architecture,Video,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_CC_2019,YouTube
+Art History and Architecture,Transcript,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_CC_2019,Smithsonian
+Art History and Architecture,Image,Maryam A M A Alwazzan,"Reframing Borders: A Study of the Veil, Writing, and Representaiton of the Female Body in the Photo-Based Artwork of Mona Hatoum, Shirin Neshat, and Lalla Essaydi",Graduate Thesis,2018,AHA_MA_2018,Museum of Fine Arts Boston
+Art History and Architecture,Image,Yinxue Chen,"Inventing Chinese Modernism: The Art and Design of Pang Xunqin (Hiunkin Pang), 1930s-1940s",Graduate Thesis,2019,AHA_YC_2019,The Palace Museum
+Art History and Architecture,Webpage,Maryam A M A Alwazzan,"Reframing Borders: A Study of the Veil, Writing, and Representaiton of the Female Body in the Photo-Based Artwork of Mona Hatoum, Shirin Neshat, and Lalla Essaydi",Graduate Thesis,2018,AHA_MA_2018,Lalla Essaydi
+Art History and Architecture,Image,Zane A. Casimir,The Adventurous Archaeologist and the Discovery of the Hellenistic Statue: An Archaeogaming Excavation of the Japanese Video Game Site,Graduate Thesis,2021,AHA_ZC_2021,From the Archivist's Notebook
+Art History and Architecture,Image,Yinxue Chen,"Inventing Chinese Modernism: The Art and Design of Pang Xunqin (Hiunkin Pang), 1930s-1940s",Graduate Thesis,2019,AHA_YC_2019,Archives.sh.cn
+Art History and Architecture,Image,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_CC_2019,theverge.com
 Art History and Architecture,Image,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_CC_2019,Moca.org
 Art History and Architecture,Image,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_CC_2019,diaart.org
 Art History and Architecture,Image,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_CC_2019,diaart.org
@@ -145,11 +146,11 @@ Art History and Architecture,Image,Case B Curry,"Unfinished Earthworks and Their
 Art History and Architecture,Image,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_CC_2019,staraxis.org
 Art History and Architecture,Image,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_CC_2019,Charlesrossstudio.com
 Art History and Architecture,Image,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_CC_2019,shiftingconnections.com
-Art History and Architecture,Image,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_CD_2015,Wayne State University Libraries
-Art History and Architecture,Image,Catherine R. Denning,"Departing from History: Sharon Hayes, Reenactment and Archival Practice in Contemporary Art",Graduate Thesis,2015,AHA_CD_2015,The Pew Center for the Arts & Heritage
-Art History and Architecture,Video,Catherine R. Denning,"Departing from History: Sharon Hayes, Reenactment and Archival Practice in Contemporary Art",Graduate Thesis,2015,AHA_CC_2019,Obama White House Archives
-Art History and Architecture,Webpage,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_MA_2018,Tate
-Art History and Architecture,Image,Maryam A M A Alwazzan,"Reframing Borders: A Study of the Veil, Writing, and Representaiton of the Female Body in the Photo-Based Artwork of Mona Hatoum, Shirin Neshat, and Lalla Essaydi",Graduate Thesis,2018,AHA_ZC_2021,Retrogaming History
+Art History and Architecture,Image,Catherine R. Denning,"Departing from History: Sharon Hayes, Reenactment and Archival Practice in Contemporary Art",Graduate Thesis,2015,AHA_CD_2015,Wayne State University Libraries
+Art History and Architecture,Video,Catherine R. Denning,"Departing from History: Sharon Hayes, Reenactment and Archival Practice in Contemporary Art",Graduate Thesis,2015,AHA_CD_2015,The Pew Center for the Arts & Heritage
+Art History and Architecture,Webpage,Case B Curry,"Unfinished Earthworks and Their Institutional Ecologies: A Status Report on Roden Crater, City, and Star Axis",Graduate Thesis,2019,AHA_CC_2019,Obama White House Archives
+Art History and Architecture,Image,Maryam A M A Alwazzan,"Reframing Borders: A Study of the Veil, Writing, and Representaiton of the Female Body in the Photo-Based Artwork of Mona Hatoum, Shirin Neshat, and Lalla Essaydi",Graduate Thesis,2018,AHA_MA_2018,Tate
+Art History and Architecture,Image,Zane A. Casimir,The Adventurous Archaeologist and the Discovery of the Hellenistic Statue: An Archaeogaming Excavation of the Japanese Video Game Site,Graduate Thesis,2021,AHA_ZC_2021,Retrogaming History
 Art History and Architecture,Image,Zane A. Casimir,The Adventurous Archaeologist and the Discovery of the Hellenistic Statue: An Archaeogaming Excavation of the Japanese Video Game Site,Graduate Thesis,2021,AHA_ZC_2021,Getty Villa Museum
 Art History and Architecture,Image,Zane A. Casimir,The Adventurous Archaeologist and the Discovery of the Hellenistic Statue: An Archaeogaming Excavation of the Japanese Video Game Site,Graduate Thesis,2021,AHA_ZC_2021,Harvard Art Museums
 Art History and Architecture,Image,Zane A. Casimir,The Adventurous Archaeologist and the Discovery of the Hellenistic Statue: An Archaeogaming Excavation of the Japanese Video Game Site,Graduate Thesis,2021,AHA_ZC_2021,Art Nerd City Guides
@@ -158,8 +159,8 @@ Art History and Architecture,Image,Zane A. Casimir,The Adventurous Archaeologist
 Art History and Architecture,Image,Zane A. Casimir,The Adventurous Archaeologist and the Discovery of the Hellenistic Statue: An Archaeogaming Excavation of the Japanese Video Game Site,Graduate Thesis,2021,AHA_ZC_2021,World History Encyclopedia
 Art History and Architecture,Image,Zane A. Casimir,The Adventurous Archaeologist and the Discovery of the Hellenistic Statue: An Archaeogaming Excavation of the Japanese Video Game Site,Graduate Thesis,2021,AHA_ZC_2021,Le Gallerie Degli Uffizi
 Art History and Architecture,Image,Zane A. Casimir,The Adventurous Archaeologist and the Discovery of the Hellenistic Statue: An Archaeogaming Excavation of the Japanese Video Game Site,Graduate Thesis,2021,AHA_ZC_2021,Pictures From Italy
-Art History and Architecture,Image,Zane A. Casimir,The Adventurous Archaeologist and the Discovery of the Hellenistic Statue: An Archaeogaming Excavation of the Japanese Video Game Site,Graduate Thesis,2021,AHA_LA_2019,YouTube
-Art History and Architecture,Video,Landry Elizabeth Austin,"Remaking the Rainbow: Queer Memorialization, Counter-Histories, Kinship, and Local Tradition in Taipei's ""Spectrosynthesis""",Graduate Thesis,2019,AHA_SD_2015,Artangel.org.uk
+Art History and Architecture,Video,Landry Elizabeth Austin,"Remaking the Rainbow: Queer Memorialization, Counter-Histories, Kinship, and Local Tradition in Taipei's ""Spectrosynthesis""",Graduate Thesis,2019,AHA_LA_2019,YouTube
+Art History and Architecture,Image,Stephanie L. Dunn,Collecting Memories: Rachel Whiteread's House and Memory in Contemporary London,Graduate Thesis,2015,AHA_SD_2015,Artangel.org.uk
 Art History and Architecture,Image,Stephanie L. Dunn,Collecting Memories: Rachel Whiteread's House and Memory in Contemporary London,Graduate Thesis,2015,AHA_SD_2015,Artangel.org.uk
 Art History and Architecture,Image,Stephanie L. Dunn,Collecting Memories: Rachel Whiteread's House and Memory in Contemporary London,Graduate Thesis,2015,AHA_SD_2015,Artangel.org.uk
 Art History and Architecture,Image,Stephanie L. Dunn,Collecting Memories: Rachel Whiteread's House and Memory in Contemporary London,Graduate Thesis,2015,AHA_SD_2015,Artangel.org.uk
@@ -171,54 +172,54 @@ Art History and Architecture,Image,Stephanie L. Dunn,Collecting Memories: Rachel
 Art History and Architecture,Image,Stephanie L. Dunn,Collecting Memories: Rachel Whiteread's House and Memory in Contemporary London,Graduate Thesis,2015,AHA_SD_2015,historyofourworld
 Art History and Architecture,Image,Stephanie L. Dunn,Collecting Memories: Rachel Whiteread's House and Memory in Contemporary London,Graduate Thesis,2015,AHA_SD_2015,saatchigallery.com
 Art History and Architecture,Image,Stephanie L. Dunn,Collecting Memories: Rachel Whiteread's House and Memory in Contemporary London,Graduate Thesis,2015,AHA_SD_2015,artfcity.com
-Art History and Architecture,Image,Stephanie L. Dunn,Collecting Memories: Rachel Whiteread's House and Memory in Contemporary London,Graduate Thesis,2015,AHA_JE_2019,Archivo Digital UPM
-Art History and Architecture,Dissertation,Jesse R. Elliott,"Eladio Dieste's Modern Religious Architecture: Innovation Through Form, Program, and Artistic Inspiration at the Churches of Cristo Obrero and San Pedro",Graduate Thesis,2019,AHA_JE_2019,grompone.org
-Art History and Architecture,Article,Jesse R. Elliott,"Eladio Dieste's Modern Religious Architecture: Innovation Through Form, Program, and Artistic Inspiration at the Churches of Cristo Obrero and San Pedro",Graduate Thesis,2019,AHA_JE_2019,Archivo Digital UPM
-Art History and Architecture,Dissertation,Jesse R. Elliott,"Eladio Dieste's Modern Religious Architecture: Innovation Through Form, Program, and Artistic Inspiration at the Churches of Cristo Obrero and San Pedro",Graduate Thesis,2019,AHA_KG_2016,Louvre.fr
+Art History and Architecture,Dissertation,Jesse R. Elliott,"Eladio Dieste's Modern Religious Architecture: Innovation Through Form, Program, and Artistic Inspiration at the Churches of Cristo Obrero and San Pedro",Graduate Thesis,2019,AHA_JE_2019,Archivo Digital UPM
+Art History and Architecture,Article,Jesse R. Elliott,"Eladio Dieste's Modern Religious Architecture: Innovation Through Form, Program, and Artistic Inspiration at the Churches of Cristo Obrero and San Pedro",Graduate Thesis,2019,AHA_JE_2019,grompone.org
+Art History and Architecture,Dissertation,Jesse R. Elliott,"Eladio Dieste's Modern Religious Architecture: Innovation Through Form, Program, and Artistic Inspiration at the Churches of Cristo Obrero and San Pedro",Graduate Thesis,2019,AHA_JE_2019,Archivo Digital UPM
+Art History and Architecture,Image,Kaitlyn M. Garvin,A Genuine Dilemma: The Piombino Apollo and Fraud in the First and Second-Century Greco-Roman Art Market,Graduate Thesis,2016,AHA_KG_2016,Louvre.fr
 Art History and Architecture,Image,Kaitlyn M. Garvin,A Genuine Dilemma: The Piombino Apollo and Fraud in the First and Second-Century Greco-Roman Art Market,Graduate Thesis,2016,AHA_KG_2016,Louvre.fr
 Art History and Architecture,Image,Kaitlyn M. Garvin,A Genuine Dilemma: The Piombino Apollo and Fraud in the First and Second-Century Greco-Roman Art Market,Graduate Thesis,2016,AHA_KG_2016,British Museum
 Art History and Architecture,Image,Kaitlyn M. Garvin,A Genuine Dilemma: The Piombino Apollo and Fraud in the First and Second-Century Greco-Roman Art Market,Graduate Thesis,2016,AHA_KG_2016,Acropolis Museum
 Art History and Architecture,Image,Kaitlyn M. Garvin,A Genuine Dilemma: The Piombino Apollo and Fraud in the First and Second-Century Greco-Roman Art Market,Graduate Thesis,2016,AHA_KG_2016,British Museum
 Art History and Architecture,Image,Kaitlyn M. Garvin,A Genuine Dilemma: The Piombino Apollo and Fraud in the First and Second-Century Greco-Roman Art Market,Graduate Thesis,2016,AHA_KG_2016,National Gallery of Art
-Art History and Architecture,Image,Kaitlyn M. Garvin,A Genuine Dilemma: The Piombino Apollo and Fraud in the First and Second-Century Greco-Roman Art Market,Graduate Thesis,2016,AHA_CH_2015,sfmoma.org
 Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,sfmoma.org
-Art History and Architecture,Video,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Archives of American Art
-Art History and Architecture,Audio,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,YouTube
-Art History and Architecture,Video,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Artstor Digital Library
-Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,YouTube
-Art History and Architecture,Video,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Walkerart.org
-Art History and Architecture,Article,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Meisel Gallery
-Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,sfmoma.org
-Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,sfmoma.org
-Art History and Architecture,Video,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Oregon Digital
-Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,The New Yorker
-Art History and Architecture,Magazine Article,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Artstore Digital Library
-Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Artstore Digital Library
-Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Artstore Digital Library
-Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Artstore Digital Library
-Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Artstore Digital Library
-Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Artstore Digital Library
-Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Oregon Digital
-Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Artstore Digital Library
-Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Oregon Digital
-Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Oregon Digital
-Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,YouTube
 Art History and Architecture,Video,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,sfmoma.org
+Art History and Architecture,Audio,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Archives of American Art
+Art History and Architecture,Video,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,YouTube
+Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Artstor Digital Library
+Art History and Architecture,Video,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,YouTube
+Art History and Architecture,Article,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Walkerart.org
+Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Meisel Gallery
+Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,sfmoma.org
+Art History and Architecture,Video,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,sfmoma.org
+Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Oregon Digital
+Art History and Architecture,Magazine Article,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,The New Yorker
+Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Artstore Digital Library
+Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Artstore Digital Library
+Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Artstore Digital Library
+Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Artstore Digital Library
+Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Artstore Digital Library
+Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Artstore Digital Library
+Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Oregon Digital
+Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Artstore Digital Library
+Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Oregon Digital
+Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Oregon Digital
+Art History and Architecture,Video,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,YouTube
+Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,sfmoma.org
 Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Artmag.com
 Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Whitney Museum of American Art
-Art History and Architecture,Image,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Artistspace.org
-Art History and Architecture,Webpage,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Soundcloud
-Art History and Architecture,Audio,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_DJ_2015,Buddhism Guide
-Art History and Architecture,Webpage,Derry Frances Jameson,Curating Buddhism: Reimagining Buddhist Statues in a Museum and Temple Setting,Graduate Thesis,2015,AHA_DJ_2015,Weekly Wanders
-Art History and Architecture,Blog Post,Derry Frances Jameson,Curating Buddhism: Reimagining Buddhist Statues in a Museum and Temple Setting,Graduate Thesis,2015,AHA_DJ_2015,Lungshan.org.tw
+Art History and Architecture,Webpage,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Artistspace.org
+Art History and Architecture,Audio,Christie K. Hajela,Painting Photography: Robert Bechtle and the Critical Legacy of 1960s Photorealism,Graduate Thesis,2015,AHA_CH_2015,Soundcloud
+Art History and Architecture,Webpage,Derry Frances Jameson,Curating Buddhism: Reimagining Buddhist Statues in a Museum and Temple Setting,Graduate Thesis,2015,AHA_DJ_2015,Buddhism Guide
+Art History and Architecture,Blog Post,Derry Frances Jameson,Curating Buddhism: Reimagining Buddhist Statues in a Museum and Temple Setting,Graduate Thesis,2015,AHA_DJ_2015,Weekly Wanders
+Art History and Architecture,Webpage,Derry Frances Jameson,Curating Buddhism: Reimagining Buddhist Statues in a Museum and Temple Setting,Graduate Thesis,2015,AHA_DJ_2015,Lungshan.org.tw
 Art History and Architecture,Webpage,Derry Frances Jameson,Curating Buddhism: Reimagining Buddhist Statues in a Museum and Temple Setting,Graduate Thesis,2015,AHA_DJ_2015,Asianinfo.org
-Art History and Architecture,Webpage,Derry Frances Jameson,Curating Buddhism: Reimagining Buddhist Statues in a Museum and Temple Setting,Graduate Thesis,2015,AHA_DJ_2015,Monastic-asia.wikidot.com
-Art History and Architecture,Blog Post,Derry Frances Jameson,Curating Buddhism: Reimagining Buddhist Statues in a Museum and Temple Setting,Graduate Thesis,2015,AHA_DJ_2015,Lungshan.org.tw
-Art History and Architecture,Webpage,Derry Frances Jameson,Curating Buddhism: Reimagining Buddhist Statues in a Museum and Temple Setting,Graduate Thesis,2015,AHA_DJ_2015,Monastic-asia.wikidot.com
-Art History and Architecture,Blog Post,Derry Frances Jameson,Curating Buddhism: Reimagining Buddhist Statues in a Museum and Temple Setting,Graduate Thesis,2015,AHA_DJ_2015,Los Angeles Times
-Art History and Architecture,Article,Derry Frances Jameson,Curating Buddhism: Reimagining Buddhist Statues in a Museum and Temple Setting,Graduate Thesis,2015,AHA_DJ_2015,Lungshan.org.tw
+Art History and Architecture,Blog Post,Derry Frances Jameson,Curating Buddhism: Reimagining Buddhist Statues in a Museum and Temple Setting,Graduate Thesis,2015,AHA_DJ_2015,Monastic-asia.wikidot.com
+Art History and Architecture,Webpage,Derry Frances Jameson,Curating Buddhism: Reimagining Buddhist Statues in a Museum and Temple Setting,Graduate Thesis,2015,AHA_DJ_2015,Lungshan.org.tw
+Art History and Architecture,Blog Post,Derry Frances Jameson,Curating Buddhism: Reimagining Buddhist Statues in a Museum and Temple Setting,Graduate Thesis,2015,AHA_DJ_2015,Monastic-asia.wikidot.com
+Art History and Architecture,Article,Derry Frances Jameson,Curating Buddhism: Reimagining Buddhist Statues in a Museum and Temple Setting,Graduate Thesis,2015,AHA_DJ_2015,Los Angeles Times
+Art History and Architecture,Webpage,Derry Frances Jameson,Curating Buddhism: Reimagining Buddhist Statues in a Museum and Temple Setting,Graduate Thesis,2015,AHA_DJ_2015,Lungshan.org.tw
 Art History and Architecture,Webpage,Derry Frances Jameson,Curating Buddhism: Reimagining Buddhist Statues in a Museum and Temple Setting,Graduate Thesis,2015,AHA_DJ_2015,Asian Art Museum
-Art History and Architecture,Webpage,Derry Frances Jameson,Curating Buddhism: Reimagining Buddhist Statues in a Museum and Temple Setting,Graduate Thesis,2015,H_ML_2017,Google eBook
+History,Image,Margaret L. Ingram,Bodies that Speak: Early Modern European Gender Distinctions in Bleeding Corpses and Demoniacs,Graduate Thesis,2017,H_ML_2017,Google eBook
 History,Image,Margaret L. Ingram,Bodies that Speak: Early Modern European Gender Distinctions in Bleeding Corpses and Demoniacs,Graduate Thesis,2017,H_ML_2017,Unknown
 History,Image,Margaret L. Ingram,Bodies that Speak: Early Modern European Gender Distinctions in Bleeding Corpses and Demoniacs,Graduate Thesis,2017,H_ML_2017,Wikimedia Commons
 History,Image,Margaret L. Ingram,Bodies that Speak: Early Modern European Gender Distinctions in Bleeding Corpses and Demoniacs,Graduate Thesis,2017,H_ML_2017,Wikimedia Commons
@@ -230,4 +231,3 @@ History,Image,Margaret L. Ingram,Bodies that Speak: Early Modern European Gender
 History,Image,Margaret L. Ingram,Bodies that Speak: Early Modern European Gender Distinctions in Bleeding Corpses and Demoniacs,Graduate Thesis,2017,H_ML_2017,Universalmuseum Joanneum
 History,Image,Margaret L. Ingram,Bodies that Speak: Early Modern European Gender Distinctions in Bleeding Corpses and Demoniacs,Graduate Thesis,2017,H_ML_2017,National Gallery of Art
 History,Image,Margaret L. Ingram,Bodies that Speak: Early Modern European Gender Distinctions in Bleeding Corpses and Demoniacs,Graduate Thesis,2017,H_ML_2017,Wikimedia Commons
-History,Image,Margaret L. Ingram,Bodies that Speak: Early Modern European Gender Distinctions in Bleeding Corpses and Demoniacs,Graduate Thesis,2017,,
